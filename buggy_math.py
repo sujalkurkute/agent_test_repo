@@ -1,4 +1,4 @@
 import os
 
 def add_numbers(a: int, b: int) -> str:
-    return a + b
+    return str(a + b)
